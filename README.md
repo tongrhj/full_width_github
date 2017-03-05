@@ -2,6 +2,8 @@
 
 ![Promo](https://raw.github.com/tongrhj/wider_github/master/promotile.png)
 
+## Installation: https://chrome.google.com/webstore/detail/full-width-github/fpmeepocimocneobfkndponblfpecdkj
+
 Full Width Github is a Chrome extension that forces Github to always use its full width layout.
 
 This extension is not affiliated with Github.
